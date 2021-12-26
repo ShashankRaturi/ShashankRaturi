@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankRaturi)](https://github.com/ShashankRaturi/github-readme-stats)
+
+- 🌱 I’m currently learning Data structure.
+- 👯 I’m looking to collaborate for web development using django projects.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankRaturi)](https://github.com/ShashankRaturi/github-readme-stats)
