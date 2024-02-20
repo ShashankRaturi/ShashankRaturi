@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Data structure.
-- 👯 I’m looking to collaborate django projects.
+- 🌱 I’m currently improving my problem solving skills.
+- 🌱 On a journey to become Machine Learning Engineer.
 
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankRaturi&show_icons=true&theme=radical)
 
