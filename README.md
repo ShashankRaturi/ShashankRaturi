@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently improving my problem solving skills.
-- 🖥️ I am on a journey to become Machine Learning Engineer.
+- 🖥️ I am on a journey to dig deep into data and make sense out of it.
 
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashankRaturi&show_icons=true&theme=radical)
 
